@@ -11,9 +11,9 @@ Pour faciliter les interactions et la communication, Learn@Home souhaite créer 
 
       1. Une page de connexion
       2. Une page tableau de bord
-      3. Une page interface de chat
-      4. Une page de calendrier
-      5. Une page de gestion des tâches
+      3. Une page ToDoList
+      4. Une page de Agenda
+      5. Une page de Tchat
       
 
 ### Documentation :
