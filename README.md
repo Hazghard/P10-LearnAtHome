@@ -25,10 +25,9 @@ Pour faciliter les interactions et la communication, Learn@Home souhaite créer 
 [Kanban](https://github.com/users/Hazghard/projects/2) : Listant les différentes actions pour la réalisation du projet
 
 Diagrammes de cas d'usage : [Lien du fichier](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Projet.pdf)
-![Page1](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive1.PNG)
-![Page2](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive2.PNG)
-![Page3](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive3.PNG)
-![Page4](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive4.PNG)
-![Page5](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive5.PNG)
-![Page6](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive6.PNG)
-![Page7](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Diapositive7.PNG)
+![Page1](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive1.PNG)
+![Page2](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive2.PNG)
+![Page3](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive3.PNG)
+![Page4](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive4.PNG)
+![Page5](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive5.PNG)
+![Page6](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive6.PNG)
