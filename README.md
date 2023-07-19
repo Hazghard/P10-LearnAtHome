@@ -24,7 +24,7 @@ Pour faciliter les interactions et la communication, Learn@Home souhaite créer 
 
 [Kanban](https://github.com/users/Hazghard/projects/2) : Listant les différentes actions pour la réalisation du projet
 
-Diagrammes de cas d'usage : [Lien du fichier](https://github.com/Hazghard/P10-LearnAtHome/blob/cf5ab8ffdfaba425bbe2f4461a293d90bf5f81e5/Diagrammes%20cas%20d'usages/Projet.pdf)
+Diagrammes de cas d'usage : [Lien du fichier](https://github.com/Hazghard/P10-LearnAtHome/blob/9346f99111cd4b2ef3939b026ab0035d224d0a38/Diagrammes%20cas%20d'usages/Diagrammes%20de%20cas%20d'usages.pdf)
 ![Page1](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive1.PNG)
 ![Page2](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive2.PNG)
 ![Page3](https://github.com/Hazghard/P10-LearnAtHome/blob/1f2d62154efc0e8d6f2545716df3a79b291b3759/Diagrammes%20cas%20d'usages/Diapositive3.PNG)
